@@ -67,22 +67,33 @@ html, body {
   align-content: center;
 }
 
+.part-b{
+  clear: left;
+  margin: 0;
+  margin-bottom: 1%;
+  width: 100%;
+  background-color: #34EAA9;
+}
+
 .part-c{
+  clear: left;
   margin: 0;
   width: 32.666%;
-  background-color: blue;
+  background-color: #36B6E8;
 }
 .part-d{
-  clear: left;
+  margin: 1%;
+  margin-top: 0;
+  margin-right: 0;
+  width: 32.666%;
+  background-color: #E836B1;
+}
+.part-e{
   margin: 1%;
   margin-top: 0;
   margin-right: 0;
   width: 32.666%;
   background-color: #F7B93C;
-}
-
-div:nth-child(E) {
-  background-color: blue;
 }
 
 .col-3{
